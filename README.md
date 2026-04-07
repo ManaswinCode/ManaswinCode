@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋! I'm Manaswin</h1>
 
 ###
